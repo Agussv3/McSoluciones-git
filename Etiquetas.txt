@@ -1,0 +1,48 @@
+   LISTAS
+    <ul>
+    <ol>
+    <li>
+  
+   TABLAS
+     Table 
+     Th 
+     Tr 
+     td 
+
+   Formularios
+    
+    input="type"  
+    taextare 
+    label 
+    Type 
+    name 
+    Submit 
+    reset 
+    radio 
+    checkbox 
+    select-option
+
+   Enlaces
+    a
+    href
+    target 
+    id 
+   
+   imagenes
+    img 
+    src 
+    alt 
+    title 
+
+   Videos
+
+    iframe
+
+   favicon
+    #= Id 
+    
+
+    ----------FLEXBOX TEORIA-----------
+    <div class="Flex-conteiner">
+
+    </div>

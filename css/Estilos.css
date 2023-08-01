@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+     margin: 0;
+     background-color: #272727;
+}
+
+.numero-telefonico{
+    display: flex;
+    justify-content: end;
+    padding-right: 25px;
+}
+
+.numeros-telefonicos{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    padding-top: 11px;
+    color: #B88900;
+}
+
+.wsp-logo{
+    padding-top: 5px;
+    height: 32px;
+    padding-bottom: 4px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 95px;
+    background-color: #0D5231;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+}
+
+.menu{
+    padding-left: 1350%;
+}
+
+.logo{
+    padding-left: 168px;
+    height: 95px;
+    padding-top: 5px;
+}
+.enlaces{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.entrada{
+    width: 314px;
+    height: 34px;
+    flex-shrink: 0;  
+}
+
+
+a:hover{
+    color: black;
+}
+.barra-nav{
+    padding-right: 150px;
+}
+
+main{
+    height: 800px
+}
+
+.fondo{
+    background-image: url(../Asset/Imagenes/FondoDeInicio.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+}
+
+ .formulario{
+    margin-left: 42%;
+    padding-top: 10%;
+}
+.detallesitos{
+    margin-left: 43%;
+}
+
+.botones{
+    margin-left: 49%;
+    margin-top: 30px;
+}
+.texto2{
+    margin-bottom: 20px;
+}
